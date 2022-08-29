@@ -1,0 +1,1 @@
+cmd_/home/manofaction/Documents/omid-project/InterruptSleep/Module.symvers := sed 's/\.ko$$/\.o/' /home/manofaction/Documents/omid-project/InterruptSleep/modules.order | scripts/mod/modpost -m -a  -o /home/manofaction/Documents/omid-project/InterruptSleep/Module.symvers -e -i Module.symvers   -T -

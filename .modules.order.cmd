@@ -1,0 +1,1 @@
+cmd_/home/manofaction/Documents/omid-project/InterruptSleep/modules.order := {   echo /home/manofaction/Documents/omid-project/InterruptSleep/driver.ko; :; } | awk '!x[$$0]++' - > /home/manofaction/Documents/omid-project/InterruptSleep/modules.order

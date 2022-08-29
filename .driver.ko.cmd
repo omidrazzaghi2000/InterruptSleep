@@ -1,0 +1,1 @@
+cmd_/home/manofaction/Documents/omid-project/InterruptSleep/driver.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/manofaction/Documents/omid-project/InterruptSleep/driver.ko /home/manofaction/Documents/omid-project/InterruptSleep/driver.o /home/manofaction/Documents/omid-project/InterruptSleep/driver.mod.o;  true

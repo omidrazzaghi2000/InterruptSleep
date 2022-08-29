@@ -1,0 +1,1 @@
+cmd_/home/manofaction/Documents/omid-project/InterruptSleep/driver.mod := { echo  /home/manofaction/Documents/omid-project/InterruptSleep/driver.o;  echo; } > /home/manofaction/Documents/omid-project/InterruptSleep/driver.mod
